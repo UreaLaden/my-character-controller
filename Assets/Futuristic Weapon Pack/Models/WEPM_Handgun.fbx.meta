@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: 599c114fa1903444cb081728fa45fc94
+timeCreated: 1535351018
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Badge
+    100002: Barell
+    100004: BarellEnd
+    100006: BarellHolders
+    100008: Barrel_Under_Teeth
+    100010: BarrelMetal
+    100012: BarrelPlate
+    100014: BarrelUnder
+    100016: Bolt
+    100018: Bolts
+    100020: Bullets
+    100022: Fix
+    100024: Fix.002
+    100026: Grip
+    100028: Hook
+    100030: Kurok
+    100032: MainBody
+    100034: MainBody.001
+    100036: MainBody.002
+    100038: MainBody.003
+    100040: MainBody.004
+    100042: MainBody.005
+    100044: MainBody.006
+    100046: MainBody.007
+    100048: MainBodyPipe
+    100050: Nose
+    100052: Plank
+    100054: Plank.001
+    100056: Plank_A
+    100058: Plank_B
+    100060: Revolver
+    100062: RevolverBase
+    100064: Side
+    100066: Side.001
+    100068: SightBack
+    100070: SightFront
+    100072: SightFrontBlock
+    100074: Trigger
+    100076: Trigger_Place
+    100078: UnderBarrelRail
+    100080: //RootNode
+    100082: Wings
+    100084: Armature
+    100086: BackPart
+    100088: BackPart 1
+    100090: FrontPart
+    100092: FrontPart 1
+    100094: Revolver_end
+    100096: Trigger 1
+    100098: Trigger.001
+    100100: Trigger.001 1
+    100102: Trigger.001_end
+    100104: Trigger_end
+    400000: Badge
+    400002: Barell
+    400004: BarellEnd
+    400006: BarellHolders
+    400008: Barrel_Under_Teeth
+    400010: BarrelMetal
+    400012: BarrelPlate
+    400014: BarrelUnder
+    400016: Bolt
+    400018: Bolts
+    400020: Bullets
+    400022: Fix
+    400024: Fix.002
+    400026: Grip
+    400028: Hook
+    400030: Kurok
+    400032: MainBody
+    400034: MainBody.001
+    400036: MainBody.002
+    400038: MainBody.003
+    400040: MainBody.004
+    400042: MainBody.005
+    400044: MainBody.006
+    400046: MainBody.007
+    400048: MainBodyPipe
+    400050: Nose
+    400052: Plank
+    400054: Plank.001
+    400056: Plank_A
+    400058: Plank_B
+    400060: Revolver
+    400062: RevolverBase
+    400064: Side
+    400066: Side.001
+    400068: SightBack
+    400070: SightFront
+    400072: SightFrontBlock
+    400074: Trigger
+    400076: Trigger_Place
+    400078: UnderBarrelRail
+    400080: //RootNode
+    400082: Wings
+    400084: Armature
+    400086: BackPart
+    400088: BackPart 1
+    400090: FrontPart
+    400092: FrontPart 1
+    400094: Revolver_end
+    400096: Trigger 1
+    400098: Trigger.001
+    400100: Trigger.001 1
+    400102: Trigger.001_end
+    400104: Trigger_end
+    2100000: mat_handgun
+    2300000: Badge
+    2300002: Barell
+    2300004: BarellEnd
+    2300006: BarellHolders
+    2300008: Barrel_Under_Teeth
+    2300010: BarrelMetal
+    2300012: BarrelPlate
+    2300014: BarrelUnder
+    2300016: Bolt
+    2300018: Bolts
+    2300020: Bullets
+    2300022: Fix
+    2300024: Fix.002
+    2300026: Grip
+    2300028: Hook
+    2300030: Kurok
+    2300032: MainBody
+    2300034: MainBody.001
+    2300036: MainBody.002
+    2300038: MainBody.003
+    2300040: MainBody.004
+    2300042: MainBody.005
+    2300044: MainBody.006
+    2300046: MainBody.007
+    2300048: MainBodyPipe
+    2300050: Nose
+    2300052: Plank
+    2300054: Plank.001
+    2300056: Plank_A
+    2300058: Plank_B
+    2300060: Revolver
+    2300062: RevolverBase
+    2300064: Side
+    2300066: Side.001
+    2300068: SightBack
+    2300070: SightFront
+    2300072: SightFrontBlock
+    2300074: Trigger
+    2300076: Trigger_Place
+    2300078: UnderBarrelRail
+    2300080: Wings
+    2300082: BackPart
+    2300084: FrontPart
+    2300086: Trigger.001
+    3300000: Badge
+    3300002: Barell
+    3300004: BarellEnd
+    3300006: BarellHolders
+    3300008: Barrel_Under_Teeth
+    3300010: BarrelMetal
+    3300012: BarrelPlate
+    3300014: BarrelUnder
+    3300016: Bolt
+    3300018: Bolts
+    3300020: Bullets
+    3300022: Fix
+    3300024: Fix.002
+    3300026: Grip
+    3300028: Hook
+    3300030: Kurok
+    3300032: MainBody
+    3300034: MainBody.001
+    3300036: MainBody.002
+    3300038: MainBody.003
+    3300040: MainBody.004
+    3300042: MainBody.005
+    3300044: MainBody.006
+    3300046: MainBody.007
+    3300048: MainBodyPipe
+    3300050: Nose
+    3300052: Plank
+    3300054: Plank.001
+    3300056: Plank_A
+    3300058: Plank_B
+    3300060: Revolver
+    3300062: RevolverBase
+    3300064: Side
+    3300066: Side.001
+    3300068: SightBack
+    3300070: SightFront
+    3300072: SightFrontBlock
+    3300074: Trigger
+    3300076: Trigger_Place
+    3300078: UnderBarrelRail
+    3300080: Wings
+    3300082: BackPart
+    3300084: FrontPart
+    3300086: Trigger.001
+    4300000: RevolverBase
+    4300002: Bullets
+    4300004: Revolver
+    4300006: Badge
+    4300008: MainBodyPipe
+    4300010: Bolts
+    4300012: MainBody.005
+    4300014: Fix
+    4300016: Fix.002
+    4300018: Hook
+    4300020: Side.001
+    4300022: MainBody
+    4300024: Barrel_Under_Teeth
+    4300026: UnderBarrelRail
+    4300028: Bolt
+    4300030: BarellEnd
+    4300032: SightFrontBlock
+    4300034: SightFront
+    4300036: SightBack
+    4300038: Plank_B
+    4300040: Plank.001
+    4300042: Wings
+    4300044: MainBody.004
+    4300046: Plank_A
+    4300048: Plank
+    4300050: Nose
+    4300052: BarellHolders
+    4300054: BarrelMetal
+    4300056: Barell
+    4300058: BarrelUnder
+    4300060: BarrelPlate
+    4300062: Kurok
+    4300064: MainBody.006
+    4300066: MainBody.001
+    4300068: MainBody.002
+    4300070: MainBody.003
+    4300072: Side
+    4300074: MainBody.007
+    4300076: Trigger
+    4300078: Trigger_Place
+    4300080: Grip
+    4300082: BackPart
+    4300084: FrontPart
+    4300086: Trigger.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_handgun
+    second: {fileID: 2100000, guid: 26ebd123f8596c049aaef56a04b6d576, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 7e41226b0b6ceb64a8c58930718936b9
+timeCreated: 1521798180
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature
+    100002: b_bolt
+    100004: b_bolt_end
+    100006: b_button
+    100008: b_button2
+    100010: b_button2_end
+    100012: b_button_end
+    100014: b_ironsight
+    100016: b_ironsight_end
+    100018: b_Kriss
+    100020: b_Mag
+    100022: b_Mag_end
+    100024: b_sight
+    100026: b_sight_end
+    100028: b_trigger
+    100030: b_trigger_end
+    100032: Bolt
+    100034: Button
+    100036: Button.001
+    100038: IronSight
+    100040: IronSight.001
+    100042: IronSightBlock
+    100044: IronSightBlock.001
+    100046: Kriss
+    100048: Kriss.002
+    100050: Magazine
+    100052: Stock
+    100054: Trigger
+    100056: //RootNode
+    400000: Armature
+    400002: b_bolt
+    400004: b_bolt_end
+    400006: b_button
+    400008: b_button2
+    400010: b_button2_end
+    400012: b_button_end
+    400014: b_ironsight
+    400016: b_ironsight_end
+    400018: b_Kriss
+    400020: b_Mag
+    400022: b_Mag_end
+    400024: b_sight
+    400026: b_sight_end
+    400028: b_trigger
+    400030: b_trigger_end
+    400032: Bolt
+    400034: Button
+    400036: Button.001
+    400038: IronSight
+    400040: IronSight.001
+    400042: IronSightBlock
+    400044: IronSightBlock.001
+    400046: Kriss
+    400048: Kriss.002
+    400050: Magazine
+    400052: Stock
+    400054: Trigger
+    400056: //RootNode
+    4300000: Bolt
+    4300002: Button
+    4300004: Button.001
+    4300006: IronSight
+    4300008: IronSight.001
+    4300010: IronSightBlock
+    4300012: IronSightBlock.001
+    4300014: Kriss
+    4300016: Kriss.002
+    4300018: Magazine
+    4300020: Stock
+    4300022: Trigger
+    9500000: //RootNode
+    13700000: Bolt
+    13700002: Button
+    13700004: Button.001
+    13700006: IronSight
+    13700008: IronSight.001
+    13700010: IronSightBlock
+    13700012: IronSightBlock.001
+    13700014: Kriss
+    13700016: Kriss.002
+    13700018: Magazine
+    13700020: Stock
+    13700022: Trigger
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

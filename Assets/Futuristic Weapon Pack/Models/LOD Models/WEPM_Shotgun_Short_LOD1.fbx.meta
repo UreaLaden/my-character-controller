@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 6c67d90287000134c8115047ee72fa52
+timeCreated: 1535355947
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Ejector
+    100004: Ejector 1
+    100006: Ejector_end
+    100008: Ironsight_Back_1
+    100010: Ironsight_Front
+    100012: Shells
+    100014: Shotgun
+    100016: Shotgun 1
+    100018: Trigger
+    100020: Trigger 1
+    100022: Trigger_end
+    100024: //RootNode
+    400000: Armature
+    400002: Ejector
+    400004: Ejector 1
+    400006: Ejector_end
+    400008: Ironsight_Back_1
+    400010: Ironsight_Front
+    400012: Shells
+    400014: Shotgun
+    400016: Shotgun 1
+    400018: Trigger
+    400020: Trigger 1
+    400022: Trigger_end
+    400024: //RootNode
+    2100000: mat_shorgun_short
+    4300000: Ejector
+    4300002: Ironsight_Back_1
+    4300004: Ironsight_Front
+    4300006: Shells
+    4300008: Shotgun
+    4300010: Trigger
+    9500000: //RootNode
+    13700000: Ejector
+    13700002: Ironsight_Back_1
+    13700004: Ironsight_Front
+    13700006: Shells
+    13700008: Shotgun
+    13700010: Trigger
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_shorgun_short
+    second: {fileID: 2100000, guid: cccc84f52108ffc408ff1fa1252c7378, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
